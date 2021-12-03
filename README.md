@@ -1,6 +1,6 @@
 # Data Engineering - DE Bootcamp Tech Resources
 
-Hello,
+Hello, hi
 
 Welcome to the [Data Engineering Bootcamp](https://academy.wizeline.com/course/data-engineering-bootcamp/)! 🎉  
 The Academy and Data Engineering Teams are very happy to have you on board! This Bootcamp will help you evolve and upskill as a top-class and confident Data Engineer, ensuring you can do your job and do your job well! 

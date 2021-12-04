@@ -9,7 +9,7 @@ steps:
       - name: secrets
         path: /secrets
 
-  - name: gcr.io/de-academy-w01/gcloud-terraform:latest
+  - name: gcr.io/de-bootcamp-jlta/gcloud-terraform:latest
     id: 'terraform_deploy'
     entrypoint: /bin/bash
     args:

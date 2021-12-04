@@ -25,7 +25,7 @@ steps:
         path: /secrets
 
 substitutions:
-  _ACTION: "apply"
+  _ACTION: "apply -auto-approve"
   _BUCKET_ID: "de-bootcamp-jlta_keys"
   _ENV: "dev"
 
